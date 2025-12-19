@@ -4,6 +4,7 @@ venv
 env
 .idea
 __pycache__
+
 # Docker volumes
 postgres_data/
 **/postgres_data/
